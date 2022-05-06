@@ -1,4 +1,4 @@
-# Currency Converter Interface
+# Personal Page Project
 
 <img src="./img/print1.png" width="600px">
 <img src="./img/print2.png" width="600px">
