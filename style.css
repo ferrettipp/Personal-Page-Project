@@ -220,7 +220,7 @@ a:hover {
   height: 300px;
   width: 400px;
   margin: 3rem 0 0;
-  background-image: url('https://images.unsplash.com/photo-1544481921-fb52f37ba73c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fGZsYXNofGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60');
+  background-image: url('https://images.unsplash.com/photo-1526925539332-aa3b66e35444?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=765&q=80');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -303,6 +303,10 @@ a:hover {
   align-items: center;
   background-color: #4a1942;
   color: #ffffff;
+}
+
+.footer p {
+  font-size: 35px;
 }
 
 /* REPONSIVO */
